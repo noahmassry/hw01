@@ -1,0 +1,34 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+Noah Massry
+
+2. Which VPS & domain providers did you choose?
+Vultr and Gandi
+
+3. What domain name did you register?
+noah-webdev.site
+
+4. What's the URL of your Github repository for this assignment?
+https://www.github.com/noahmassry/hw01
+
+5. Which parts of this assignment did you have trouble with, if any?
+All of it. I had trouble linking my subdomain. I had trouble altering
+the nginx default file. I had trouble linking my server to my DNS and
+back the other way. I couldn't find much help online and struggled 
+throughout the assignment. There were no office hours, so I could not
+even speak to a TA about my issues. I don't know how I will be able to
+succeed in this class if I cannot even figure out this hw01.
+
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
+ - Task 9
